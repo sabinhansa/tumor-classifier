@@ -8,6 +8,8 @@ It includes complete data preparation, training, evaluation, and inference pipel
 ---
 
 ## Project Structure
+
+```
 tumor-classifier/
 │
 ├── src/
@@ -30,6 +32,7 @@ tumor-classifier/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ---
 
